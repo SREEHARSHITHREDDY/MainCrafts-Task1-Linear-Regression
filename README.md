@@ -57,9 +57,7 @@ MainCrafts-Task1-Linear-Regression/
 
 ├── Task1 report.pdf                   # Project summary report
 
-├── README.md                          # Project documentation
-
-└── model.pkl
+└── README.md                          # Project documentation
 
 ## Results
 - The Linear Regression model was successfully trained on the California Housing dataset.
