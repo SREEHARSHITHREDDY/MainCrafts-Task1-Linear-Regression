@@ -53,7 +53,7 @@ The model performance is evaluated using:
 MainCrafts-Task1-Linear-Regression/
 │
 ├── task1_ml_linear_regression.ipynb   # Jupyter Notebook with full implementation
-├── report.pdf                         # Project summary report
+├── Task1 report.pdf                   # Project summary report
 ├── README.md                          # Project documentation
 └── model.pkl
 
